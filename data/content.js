@@ -82,6 +82,24 @@ window.SITE_CONTENT = {
       ],
       "date": "2026-09-10",
       "body": "## Project Overview\n\nThis HR analytics project investigates why employees leave, using IBM's HR Employee Attrition dataset of 1,470 employees. The goal was to move beyond a headline attrition rate and uncover which roles, departments, satisfaction levels, and career patterns drive voluntary exits.\n\n## Dataset\n\n- 1,470 employee records with 35 attributes\n- Overall attrition rate: 16.1%\n- Key variables: job role, department, years at company, monthly income, job satisfaction, overtime, marital status, and distance from home\n\n## Python EDA\n\n- Profiled the dataset using Pandas — no missing values, but several columns needed type casting and label encoding.\n- Used Seaborn and Matplotlib to visualise distributions, correlation heatmaps, and attrition breakdowns by every categorical variable.\n- Ran a point-biserial correlation analysis to surface the strongest numerical predictors of attrition.\n- Found that OverTime, JobSatisfaction, MonthlyIncome, and YearsAtCompany are the four strongest individual predictors.\n\n## Power BI Dashboard\n\n- Built a two-page report: an **Overview** page with attrition KPIs and department breakdowns, and a **Deep Dive** page with role and satisfaction-level filters.\n- Created DAX measures for attrition rate, average tenure of leavers vs. stayers, and income gap between churned and retained employees.\n- Added conditional formatting to highlight high-risk role-department combinations in table visuals.\n\n## Key Findings\n\n- Employees who work overtime are 3× more likely to leave than those who do not.\n- Sales Representatives have the highest attrition rate at 39.8%.\n- Employees earning below the 25th percentile income threshold leave at nearly double the company-average rate.\n- Employees with fewer than 2 years at the company account for 40% of all exits.\n- Low job-satisfaction employees leave at 22.8% — almost double the rate of highly satisfied staff.\n\n## Business Recommendations\n\n- Introduce overtime monitoring and compensatory policies for high-risk roles.\n- Review the compensation structure for entry-level and Sales Representative bands.\n- Implement a structured onboarding and 90-day check-in programme to retain new joiners during the highest-risk window."
+    },
+    {
+      "slug": "wert5u",
+      "title": "wert5u",
+      "summary": "sdfghjgtfresw",
+      "tags": [
+        "ergtf",
+        "wertfg",
+        "wert",
+        "ertf",
+        "ert"
+      ],
+      "date": "2026-10-22",
+      "body": "qwgtfrhyjugfdsssssg\n## sdfhkjnhjkm\nsfihkjnbvghebjnsdfjkfd",
+      "dashboardUrl": "https://www.amazon.com/",
+      "attachments": [
+        "media/docs/Untitled_presentation.pdf"
+      ]
     }
   ],
   "posts": [
