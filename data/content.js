@@ -97,6 +97,7 @@ window.SITE_CONTENT = {
       "date": "2026-10-22",
       "body": "qwgtfrhyjugfdsssssg\n## sdfhkjnhjkm\nsfihkjnbvghebjnsdfjkfd",
       "dashboardUrl": "https://www.amazon.com/",
+      "videoPath": "media/videos/vidssave.com____________480P.mp4",
       "attachments": [
         "media/docs/Untitled_presentation.pdf"
       ]
